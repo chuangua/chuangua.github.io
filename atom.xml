@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>音乐与大脑：艺术与科学的奇妙旅程</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-10-02T13:11:41.549Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>呱呱</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello to the World of Music and Brain</title>
+    <link href="http://example.com/2022/10/02/hello-world/"/>
+    <id>http://example.com/2022/10/02/hello-world/</id>
+    <published>2022-10-02T09:13:08.058Z</published>
+    <updated>2022-10-02T13:11:41.549Z</updated>
+    
+    <content type="html"><![CDATA[<p>即将进入音乐与脑科学的研究，需要再回顾的课程：</p><h4 id="数字信号处理（生物医学数字信号处理）"><a href="#数字信号处理（生物医学数字信号处理）" class="headerlink" title="数字信号处理（生物医学数字信号处理）"></a>数字信号处理（生物医学数字信号处理）</h4><h4 id="脑与认知概论（配有台湾阳明交通大学的网课）"><a href="#脑与认知概论（配有台湾阳明交通大学的网课）" class="headerlink" title="脑与认知概论（配有台湾阳明交通大学的网课）"></a>脑与认知概论（配有台湾阳明交通大学的网课）</h4><h4 id="工科数学分析（个人爱好，好久没学数学了）"><a href="#工科数学分析（个人爱好，好久没学数学了）" class="headerlink" title="工科数学分析（个人爱好，好久没学数学了）"></a>工科数学分析（个人爱好，好久没学数学了）</h4>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;即将进入音乐与脑科学的研究，需要再回顾的课程：&lt;/p&gt;
+&lt;h4 id=&quot;数字信号处理（生物医学数字信号处理）&quot;&gt;&lt;a href=&quot;#数字信号处理（生物医学数字信号处理）&quot; class=&quot;headerlink&quot; title=&quot;数字信号处理（生物医学数字信号处理）&quot;&gt;&lt;/a&gt;数</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
