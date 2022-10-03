@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-10-02T13:11:41.549Z</updated>
+  <updated>2022-10-03T04:05:30.042Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2022/10/02/hello-world/"/>
     <id>http://example.com/2022/10/02/hello-world/</id>
     <published>2022-10-02T09:13:08.058Z</published>
-    <updated>2022-10-02T13:11:41.549Z</updated>
+    <updated>2022-10-03T04:05:30.042Z</updated>
     
     <content type="html"><![CDATA[<p>即将进入音乐与脑科学的研究，需要再回顾的课程：</p><h4 id="数字信号处理（生物医学数字信号处理）"><a href="#数字信号处理（生物医学数字信号处理）" class="headerlink" title="数字信号处理（生物医学数字信号处理）"></a>数字信号处理（生物医学数字信号处理）</h4><h4 id="脑与认知概论（配有台湾阳明交通大学的网课）"><a href="#脑与认知概论（配有台湾阳明交通大学的网课）" class="headerlink" title="脑与认知概论（配有台湾阳明交通大学的网课）"></a>脑与认知概论（配有台湾阳明交通大学的网课）</h4><h4 id="工科数学分析（个人爱好，好久没学数学了）"><a href="#工科数学分析（个人爱好，好久没学数学了）" class="headerlink" title="工科数学分析（个人爱好，好久没学数学了）"></a>工科数学分析（个人爱好，好久没学数学了）</h4>]]></content>
     
@@ -34,6 +34,12 @@
     
     
     
+    <category term="第一章入门" scheme="http://example.com/categories/%E7%AC%AC%E4%B8%80%E7%AB%A0%E5%85%A5%E9%97%A8/"/>
+    
+    
+    <category term="音乐" scheme="http://example.com/tags/%E9%9F%B3%E4%B9%90/"/>
+    
+    <category term="脑科学" scheme="http://example.com/tags/%E8%84%91%E7%A7%91%E5%AD%A6/"/>
     
   </entry>
   
