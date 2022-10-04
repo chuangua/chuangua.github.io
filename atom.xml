@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-10-03T04:05:30.042Z</updated>
+  <updated>2022-10-04T10:11:16.451Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>step</title>
+    <link href="http://example.com/2022/10/04/step/"/>
+    <id>http://example.com/2022/10/04/step/</id>
+    <published>2022-10-04T10:06:48.000Z</published>
+    <updated>2022-10-04T10:11:16.451Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天复习了脑与认知概论，依照经典的认知科学概论（第三版）的内容</p><p>Broadman areas 52</p><p>neurons, glial cells</p><p>axon, ···</p><p>调性</p><p>有空再补充，最近没法去图书馆看书，明天可以再看看</p><p>呼哈！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;今天复习了脑与认知概论，依照经典的认知科学概论（第三版）的内容&lt;/p&gt;
+&lt;p&gt;Broadman areas 52&lt;/p&gt;
+&lt;p&gt;neurons, glial cells&lt;/p&gt;
+&lt;p&gt;axon, ···&lt;/p&gt;
+&lt;p&gt;调性&lt;/p&gt;
+&lt;p&gt;有空再补充，最近没法去图书馆看书，明</summary>
+      
+    
+    
+    
+    
+    <category term="脑科学" scheme="http://example.com/tags/%E8%84%91%E7%A7%91%E5%AD%A6/"/>
+    
+    <category term="音乐" scheme="http://example.com/tags/%E9%9F%B3%E4%B9%90/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello to the World of Music and Brain</title>
@@ -37,9 +66,9 @@
     <category term="第一章入门" scheme="http://example.com/categories/%E7%AC%AC%E4%B8%80%E7%AB%A0%E5%85%A5%E9%97%A8/"/>
     
     
-    <category term="音乐" scheme="http://example.com/tags/%E9%9F%B3%E4%B9%90/"/>
-    
     <category term="脑科学" scheme="http://example.com/tags/%E8%84%91%E7%A7%91%E5%AD%A6/"/>
+    
+    <category term="音乐" scheme="http://example.com/tags/%E9%9F%B3%E4%B9%90/"/>
     
   </entry>
   
