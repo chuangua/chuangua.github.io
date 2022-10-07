@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-10-05T03:06:46.536Z</updated>
+  <updated>2022-10-07T06:24:44.072Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,19 +17,68 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>small talk</title>
+    <title>Cognitive Neuroscience</title>
+    <link href="http://example.com/2022/10/07/Cognitive-Neuroscience/"/>
+    <id>http://example.com/2022/10/07/Cognitive-Neuroscience/</id>
+    <published>2022-10-07T06:12:38.000Z</published>
+    <updated>2022-10-07T06:24:44.072Z</updated>
+    
+    <content type="html"><![CDATA[<p>《认知神经科学－关于心智的生物学》世界权威的认知神经科学教材，这就开始啦<br><img src="/.com//cn.jpg" alt="Cognitive Neuroscience"></p><p>大二时有修过脑与认知科学概论，脉络就是按照这本书来的，后来看台湾阳明交通大学的网课也是依靠这本书的。这次就完完整整的研读一下</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;《认知神经科学－关于心智的生物学》世界权威的认知神经科学教材，这就开始啦&lt;br&gt;&lt;img src=&quot;/.com//cn.jpg&quot; alt=&quot;Cognitive Neuroscience&quot;&gt;&lt;/p&gt;
+&lt;p&gt;大二时有修过脑与认知科学概论，脉络就是按照这本书来的，后来看台湾阳明交</summary>
+      
+    
+    
+    
+    
+    <category term="脑科学" scheme="http://example.com/tags/%E8%84%91%E7%A7%91%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Brain and Music</title>
+    <link href="http://example.com/2022/10/07/Brain-and-Music/"/>
+    <id>http://example.com/2022/10/07/Brain-and-Music/</id>
+    <published>2022-10-07T06:11:50.000Z</published>
+    <updated>2022-10-07T06:21:15.594Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天正式开启《大脑与音乐》这本书的学习<br><img src="/.com//bam.jpg" alt="Brain and Music"></p><p>简单看了下目前，我需要补充的音乐、脑科学、信号处理的内容都包含了，非常合适哈哈哈<br>慢慢开启第一章的内容！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;今天正式开启《大脑与音乐》这本书的学习&lt;br&gt;&lt;img src=&quot;/.com//bam.jpg&quot; alt=&quot;Brain and Music&quot;&gt;&lt;/p&gt;
+&lt;p&gt;简单看了下目前，我需要补充的音乐、脑科学、信号处理的内容都包含了，非常合适哈哈哈&lt;br&gt;慢慢开启第一章的内容！&lt;/p</summary>
+      
+    
+    
+    
+    
+    <category term="脑科学" scheme="http://example.com/tags/%E8%84%91%E7%A7%91%E5%AD%A6/"/>
+    
+    <category term="音乐" scheme="http://example.com/tags/%E9%9F%B3%E4%B9%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Small talk</title>
     <link href="http://example.com/2022/10/05/talk/"/>
     <id>http://example.com/2022/10/05/talk/</id>
     <published>2022-10-05T03:04:48.000Z</published>
-    <updated>2022-10-05T03:06:46.536Z</updated>
+    <updated>2022-10-07T06:18:34.327Z</updated>
     
-    <content type="html"><![CDATA[<p>今天是帮老师审稿的一天，再过不久就要和这个研究方向say goodbye了，不过这个方向还是很有意思的哈哈</p>]]></content>
+    <content type="html"><![CDATA[<p>今天是帮老师审稿的一天，再过不久就要和这个研究方向say goodbye了，不过这个方向还是很有意思的哈哈</p><p>2022.10.6 update</p><p>DeepMind今日在nature上发表了AI应用于矩阵运算的AlphaTensor，非常惊喜，非常让人佩服<br><img src="/.com//psc.jpg" alt="DeepMind"></p><p>and 今天继续审稿，看起来堆砌了很多技巧，再细细琢磨一下</p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;今天是帮老师审稿的一天，再过不久就要和这个研究方向say goodbye了，不过这个方向还是很有意思的哈哈&lt;/p&gt;
-</summary>
+&lt;p&gt;2022.10.6 update&lt;/p&gt;
+&lt;p&gt;DeepMind今日在nature上发表了AI应用于矩阵运算的AlphaTensor，非常惊喜，非常让人</summary>
       
     
     
