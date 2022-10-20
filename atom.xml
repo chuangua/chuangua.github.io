@@ -3,11 +3,11 @@
   <title>音乐与大脑：艺术与科学的奇妙旅程</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://chuangua.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://chuangua.github.io/"/>
   <updated>2022-10-20T02:55:02.027Z</updated>
-  <id>http://example.com/</id>
+  <id>http://chuangua.github.io/</id>
   
   <author>
     <name>呱呱</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>From Correlation to Causation</title>
-    <link href="http://example.com/2022/10/20/causality/"/>
-    <id>http://example.com/2022/10/20/causality/</id>
+    <link href="http://chuangua.github.io/2022/10/20/causality/"/>
+    <id>http://chuangua.github.io/2022/10/20/causality/</id>
     <published>2022-10-20T02:22:34.000Z</published>
     <updated>2022-10-20T02:55:02.027Z</updated>
     
@@ -35,14 +35,14 @@
     
     
     
-    <category term="因果性" scheme="http://example.com/tags/%E5%9B%A0%E6%9E%9C%E6%80%A7/"/>
+    <category term="因果性" scheme="http://chuangua.github.io/tags/%E5%9B%A0%E6%9E%9C%E6%80%A7/"/>
     
   </entry>
   
   <entry>
     <title>Cognitive Neuroscience</title>
-    <link href="http://example.com/2022/10/07/Cognitive-Neuroscience/"/>
-    <id>http://example.com/2022/10/07/Cognitive-Neuroscience/</id>
+    <link href="http://chuangua.github.io/2022/10/07/Cognitive-Neuroscience/"/>
+    <id>http://chuangua.github.io/2022/10/07/Cognitive-Neuroscience/</id>
     <published>2022-10-07T06:12:38.000Z</published>
     <updated>2022-10-13T02:20:10.053Z</updated>
     
@@ -58,14 +58,14 @@
     
     
     
-    <category term="脑科学" scheme="http://example.com/tags/%E8%84%91%E7%A7%91%E5%AD%A6/"/>
+    <category term="脑科学" scheme="http://chuangua.github.io/tags/%E8%84%91%E7%A7%91%E5%AD%A6/"/>
     
   </entry>
   
   <entry>
     <title>Brain and Music</title>
-    <link href="http://example.com/2022/10/07/Brain-and-Music/"/>
-    <id>http://example.com/2022/10/07/Brain-and-Music/</id>
+    <link href="http://chuangua.github.io/2022/10/07/Brain-and-Music/"/>
+    <id>http://chuangua.github.io/2022/10/07/Brain-and-Music/</id>
     <published>2022-10-07T06:11:50.000Z</published>
     <updated>2022-10-07T06:42:45.636Z</updated>
     
@@ -81,16 +81,16 @@
     
     
     
-    <category term="脑科学" scheme="http://example.com/tags/%E8%84%91%E7%A7%91%E5%AD%A6/"/>
+    <category term="脑科学" scheme="http://chuangua.github.io/tags/%E8%84%91%E7%A7%91%E5%AD%A6/"/>
     
-    <category term="音乐" scheme="http://example.com/tags/%E9%9F%B3%E4%B9%90/"/>
+    <category term="音乐" scheme="http://chuangua.github.io/tags/%E9%9F%B3%E4%B9%90/"/>
     
   </entry>
   
   <entry>
     <title>Small talk</title>
-    <link href="http://example.com/2022/10/05/talk/"/>
-    <id>http://example.com/2022/10/05/talk/</id>
+    <link href="http://chuangua.github.io/2022/10/05/talk/"/>
+    <id>http://chuangua.github.io/2022/10/05/talk/</id>
     <published>2022-10-05T03:04:48.000Z</published>
     <updated>2022-10-12T04:07:10.052Z</updated>
     
@@ -107,14 +107,14 @@
     
     
     
-    <category term="闲聊" scheme="http://example.com/tags/%E9%97%B2%E8%81%8A/"/>
+    <category term="闲聊" scheme="http://chuangua.github.io/tags/%E9%97%B2%E8%81%8A/"/>
     
   </entry>
   
   <entry>
     <title>Exploration of the New World</title>
-    <link href="http://example.com/2022/10/04/explore/"/>
-    <id>http://example.com/2022/10/04/explore/</id>
+    <link href="http://chuangua.github.io/2022/10/04/explore/"/>
+    <id>http://chuangua.github.io/2022/10/04/explore/</id>
     <published>2022-10-04T10:06:48.000Z</published>
     <updated>2022-10-07T06:35:40.349Z</updated>
     
@@ -134,16 +134,16 @@
     
     
     
-    <category term="脑科学" scheme="http://example.com/tags/%E8%84%91%E7%A7%91%E5%AD%A6/"/>
+    <category term="脑科学" scheme="http://chuangua.github.io/tags/%E8%84%91%E7%A7%91%E5%AD%A6/"/>
     
-    <category term="音乐" scheme="http://example.com/tags/%E9%9F%B3%E4%B9%90/"/>
+    <category term="音乐" scheme="http://chuangua.github.io/tags/%E9%9F%B3%E4%B9%90/"/>
     
   </entry>
   
   <entry>
     <title>Hello to the World of Music and Brain</title>
-    <link href="http://example.com/2022/10/02/hello-world/"/>
-    <id>http://example.com/2022/10/02/hello-world/</id>
+    <link href="http://chuangua.github.io/2022/10/02/hello-world/"/>
+    <id>http://chuangua.github.io/2022/10/02/hello-world/</id>
     <published>2022-10-02T09:13:08.058Z</published>
     <updated>2022-10-19T04:43:21.328Z</updated>
     
@@ -158,12 +158,12 @@
     
     
     
-    <category term="第一章入门" scheme="http://example.com/categories/%E7%AC%AC%E4%B8%80%E7%AB%A0%E5%85%A5%E9%97%A8/"/>
+    <category term="第一章入门" scheme="http://chuangua.github.io/categories/%E7%AC%AC%E4%B8%80%E7%AB%A0%E5%85%A5%E9%97%A8/"/>
     
     
-    <category term="脑科学" scheme="http://example.com/tags/%E8%84%91%E7%A7%91%E5%AD%A6/"/>
+    <category term="脑科学" scheme="http://chuangua.github.io/tags/%E8%84%91%E7%A7%91%E5%AD%A6/"/>
     
-    <category term="音乐" scheme="http://example.com/tags/%E9%9F%B3%E4%B9%90/"/>
+    <category term="音乐" scheme="http://chuangua.github.io/tags/%E9%9F%B3%E4%B9%90/"/>
     
   </entry>
   
